@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: light-yellow;
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+.btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100px;
+  transition: all 0.3s linear;
+  padding: 10px;
+  font-size: 1rem;
+  background: transparent;
+  border: 2px solid #000;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  margin: 0.5rem;
+}
+.btn:hover {
+  color: #fff;
+  background: #000;
+}
+
+.btn-one {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.btn-two {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 100%);
+}
+
+.timer {
+  margin-top: 5em;
+}
+
+.digits {
+  font-size: 5rem;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.btn-toggle {
+  text-transform: uppercase;
+  width: 250px;
+  transition: all 0.3s linear;
+  padding: 10px;
+  font-size: 1rem;
+  background: transparent;
+  border: 2px solid #000;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+.btn-toggle:hover {
+  background: lightblue;
+}
+
+.btn-clock {
+  width: 250px;
+  height: 100px;
+  background: transparent;
+  font-size: 2rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.btn-clock:hover {
+  background: #000;
+  color: white;
+}
