@@ -1,4 +1,5 @@
 Stopwatch | Clock
 A React Project where we can toggle between Clock and Stopwatch!
-![clock](https://user-images.githubusercontent.com/51715072/168565409-bd430e14-19d0-4977-a97f-960613b65976.png)
-![stopwatch](https://user-images.githubusercontent.com/51715072/168565422-7a801712-b254-491d-9af9-27bdb7f4bd9b.png)
+
+![clock](https://user-images.githubusercontent.com/51715072/168566903-8a4840fa-5ea0-4cf2-8229-38a2c315fbbc.png)
+![stopwatch](https://user-images.githubusercontent.com/51715072/168566907-f9aa2c6f-819d-467d-b273-7af3dd41956e.png)
